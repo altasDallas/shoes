@@ -10,8 +10,7 @@
 Run Project for Regression test:
  "npm run test:regression"
   
-Generate Allure report:  
- "npm run report"
+Generate Allure report: "npm run report"
   
   
   
