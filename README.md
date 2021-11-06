@@ -1,5 +1,5 @@
- shoes
- It is assignment for interview.
+
+ # It is assignment for interview.
  WebdriverIO/TypeScript/Cucumber framework
  It has been created from scratch. All framwork created by Altas Huseyin.
 
